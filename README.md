@@ -108,111 +108,37 @@ Explore colors here:
 
 ## Publishing Your Website
 
-1. Create GitHub Repository
-   - select the source control button in VSCode
-   - select 'initialize repository'
-   - Write message that describes your changes:
-     "Initial portfolio upload"
-   - Click 'Commit'
+    1. Create GitHub Repository
+    - select the source control button in VSCode
+    - select 'initialize repository'
+    - Write message that describes your changes:
+        "Initial portfolio upload"
+    - Click 'Commit'
+    - Click 'Publish Branch'
+    - Login to Github if needed
 
-Step 4 — Publish Website
+    2. Publish Website
+    - Navigate to github.com and login
+    - Navigate to your repository
+    - Settings > Pages
+            - Source > Deploy from Branch
+            - Branch > Main > Save
+    Github will gerate a url for your project
+    https://yourusername.github.io/your-repository
 
-Click:
-
-Publish repository
-
-Wait 1–2 minutes.
-
-Your site will appear at:
-
-https://yourusername.github.io
-
-🔄 PART 9 — Updating Your Website Later
+## Updating Your Website Later
 
 Whenever you make changes:
 
-Save files in VS Code
-
-Open GitHub Desktop
-
-Commit changes
-
-Push to GitHub
-
-Your site updates automatically.
-
-🧭 PART 10 — VS Code Tips
-Auto Format Code
-
-Right click → Format Document
-
-Search Across Project
-
-Press:
-
-Command + Shift + F (Mac)
-Ctrl + Shift + F (Windows)
-
-Rename Files Safely
-
-Always rename inside VS Code sidebar so links stay accurate.
+    1. Save files in VS Code
+    2. Write a comment & commit changes
+    3. Push to GitHub
+    4. Your site updates automatically.
 
 🆘 Troubleshooting
+
 Images Not Showing
-
-Check:
-
-File exists inside images folder
-
-Spelling matches exactly
-
-Path is correct
-
-Website Not Updating
-
-Try:
-
-Refresh browser
-
-Wait 2 minutes
-
-Confirm you pushed changes
+Check: - File exists inside images folder - Spelling matches exactly - Path is correct
 
 Page Link Broken
-
-Confirm:
-
-projects/project-name.html
-
-Matches filename exactly.
-
-🌟 Optional Creative Expansion
-
-Try experimenting with:
-
-Video embeds
-
-Animation
-
-Dark mode
-
-Multi-column project layouts
-
-Additional pages (CV, exhibitions, writing)
-
-🧠 Learning Mindset
-
-You are learning a creative material.
-
-Mistakes are normal and expected.
-
-Break things → Fix things → Learn things.
-
-🎉 When Your Website Is Live
-
-You now:
-
-✔ Own a personal website
-✔ Understand website structure
-✔ Have a professional portfolio platform
-✔ Can expand this forever
+Check: - File exists inside projects folder - Matches filename exactly. - Path is correct
